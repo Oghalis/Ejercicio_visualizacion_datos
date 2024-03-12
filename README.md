@@ -1,10 +1,9 @@
 # Análisis de Exportaciones Alemanas en 2023
-==========================================
-
+----
 En este repositorio, como parte de un ejercicio de clase, se muestran las visualizaciones de los 10 productos más exportados por Alemania en 2023, donde se observa tanto las cantidades (en millones de toneladas)y valores monetarios (en millones de dolares) como sus respectivos porcentajes.
 
 # Propósito
-==========================================
+----
 Esta información a su vez puede servir de ayuda a los usuarios interesados en las exportaciones de Alemania a encontrar información específica que puede ser relevante para sus intereses o necesidades. La presencia de productos manufacturados como vehículos, plásticos y papel en las listas principales de exportación resalta la importancia de la industria manufacturera en Alemania. Estos productos suelen tener un valor agregado considerable y representan una parte significativa de los ingresos por exportación del país.
 
 ## Gráficos de Pie
